@@ -1,5 +1,5 @@
 
-urlstring='https://127.0.0.1:5000/readData'
+urlstring='https://alternate-energy.herokuapp.com/readData'
 
 Plotly.d3.json(urlstring, function(err, rows){
   //console.log(rows)
