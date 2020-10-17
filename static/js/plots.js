@@ -1,5 +1,5 @@
 
-urlstring='http://0.0.0.0:5000/readData'
+urlstring='https://0.0.0.0:5000/readData'
 
 Plotly.d3.json(urlstring, function(err, rows){
   //console.log(rows)
